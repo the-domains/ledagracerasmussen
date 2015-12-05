@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ledagracerasmussen]]></title>
+        <description><![CDATA[ledagracerasmussen]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 05 Dec 2015 16:20:48 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Coinbase - Buy and Sell Bitcoin]]></title>
+            <description><![CDATA[<article><h1>Coinbase - Buy and Sell Bitcoin</h1><p>The easiest way to buy, use, and accept bitcoin. Using bitcoin has never been so safe and easy.</p><img src="https://www.coinbase.com/img/og-home.jpg"></article>]]></description>
+            <link>https://www.coinbase.com/join</link>
+            <guid isPermaLink="false">45bf0e72-e854-4576-9716-5ba52b492deb</guid>
+            <pubDate>Sat, 05 Dec 2015 16:20:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
