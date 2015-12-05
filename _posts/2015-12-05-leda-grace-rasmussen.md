@@ -30,8 +30,8 @@ app_links:
     package: com.tumblr
 isBasedOnUrl: 'http://leda-grace-rasmussen.tumblr.com/'
 title: Leda Grace Rasmussen
-datePublished: '2015-12-05T16:43:41.266Z'
-dateModified: '2015-12-05T12:30:01.522Z'
+datePublished: '2015-12-05T16:43:41.294Z'
+dateModified: '2015-12-05T12:30:05.276Z'
 sourcePath: _posts/2015-12-05-leda-grace-rasmussen.md
 published: true
 inFeed: true
