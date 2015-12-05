@@ -2,36 +2,36 @@
 author: []
 related: []
 publisher:
-  url: 'http://www.dailymotion.com'
-  name: Dailymotion
-  favicon: 'http://static1.dmcdn.net/images/favicons/favicon-16x16.png.v680d4fe841b83a8f9'
-  domain: www.dailymotion.com
+  url: 'http://leda-grace-rasmussen.tumblr.com'
+  name: Tumblr
+  favicon: 'http://38.media.tumblr.com/avatar_3a754b3300cc_128.png'
+  domain: leda-grace-rasmussen.tumblr.com
 keywords:
-  - dailymotion
-  - mmm
-  - tailor-made
-  - uploading
-  - fantastic
-  - garden
-  - grateful
-  - '2015'
-  - dogs
-  - sideline
-description: 'I am grateful for becoming a member of this fantastic community of MMM Global, where it is all about helping each other. Together we can change the world.'
+  - online
+  - networks
+  - happines
+  - kelpie
+  - payitforwardfoundation
+  - marketing
+  - collie
+  - dino
+  - contacts
+  - social
+description: 'Social media and online marketing expert. Specializing in network marketing. I have worked with online marketing, social media, online and offline networks. Creating large networks of distributors...'
 inLanguage: en
 app_links:
-  - url: 'dailymotion://channel/x1o04sb'
+  - url: 'tumblr://x-callback-url/blog?blogName=leda-grace-rasmussen'
     type: ios
-    app_store_id: '336978041'
-    app_name: Dailymotion
-  - url: 'dailymotion://channel/x1o04sb'
+    app_name: Tumblr
+    app_store_id: '305343404'
+  - url: 'tumblr://x-callback-url/blog?blogName=leda-grace-rasmussen'
     type: android
-    app_name: Dailymotion
-    package: com.dailymotion.dailymotion
-isBasedOnUrl: 'http://www.dailymotion.com/leda-grace-rasmussen'
+    app_name: Tumblr
+    package: com.tumblr
+isBasedOnUrl: 'http://leda-grace-rasmussen.tumblr.com/'
 title: Leda Grace Rasmussen
-datePublished: '2015-12-05T16:43:41.147Z'
-dateModified: '2015-12-05T12:30:27.872Z'
+datePublished: '2015-12-05T16:43:41.266Z'
+dateModified: '2015-12-05T12:30:01.522Z'
 sourcePath: _posts/2015-12-05-leda-grace-rasmussen.md
 published: true
 inFeed: true
@@ -41,4 +41,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Leda Grace Rasmussen</h1><p>I am grateful for becoming a member of this fantastic community of MMM Global&amp;comma; where it is all about helping each other&amp;period; Together we can change the world&amp;period;</p><img src="http://s2.dmcdn.net/P6SI3/200x200-rQ7.jpg" /></article>
+<article style=""><h1>Leda Grace Rasmussen</h1><p>Social media and online marketing expert&amp;period; Specializing in network marketing&amp;period; I have worked with online marketing&amp;comma; social media&amp;comma; online and offline networks&amp;period; Creating large networks of distributors&amp;period;&amp;period;&amp;period;</p><img src="http://38.media.tumblr.com/avatar_3a754b3300cc_128.png" /></article>
