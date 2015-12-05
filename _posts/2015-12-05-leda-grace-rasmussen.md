@@ -2,36 +2,28 @@
 author: []
 related: []
 publisher:
-  url: 'http://leda-grace-rasmussen.tumblr.com'
-  name: Tumblr
-  favicon: 'http://38.media.tumblr.com/avatar_3a754b3300cc_128.png'
-  domain: leda-grace-rasmussen.tumblr.com
-keywords:
-  - online
-  - networks
-  - happines
-  - kelpie
-  - payitforwardfoundation
-  - marketing
-  - collie
-  - dino
-  - contacts
-  - social
-description: 'Social media and online marketing expert. Specializing in network marketing. I have worked with online marketing, social media, online and offline networks. Creating large networks of distributors...'
-inLanguage: en
+  url: 'https://medium.com'
+  name: Medium
+  favicon: 'https://cdn-static-1.medium.com/_/fp/icons/favicon-new.TAS6uQ-Y7kcKgi0xjcYHXw.ico'
+  domain: medium.com
+keywords: []
+description: "Founder of Teamfun Ltd. The do's and don'ts to become successful on the internet as a work from home entrepreneur."
 app_links:
-  - url: 'tumblr://x-callback-url/blog?blogName=leda-grace-rasmussen'
+  - type: android
+    app_name: Medium
+    app_store_id: '828256236'
+    package: com.medium.reader
+  - url: 'medium:/@ledagrasmussen'
     type: ios
-    app_name: Tumblr
-    app_store_id: '305343404'
-  - url: 'tumblr://x-callback-url/blog?blogName=leda-grace-rasmussen'
+    app_name: Medium
+  - url: 'medium://@ledagrasmussen'
     type: android
-    app_name: Tumblr
-    package: com.tumblr
-isBasedOnUrl: 'http://leda-grace-rasmussen.tumblr.com/'
+  - url: 'https://medium.com/@ledagrasmussen'
+    type: web
+isBasedOnUrl: 'https://medium.com/@ledagrasmussen'
 title: Leda Grace Rasmussen
-datePublished: '2015-12-05T16:43:41.294Z'
-dateModified: '2015-12-05T12:30:05.276Z'
+datePublished: '2015-12-05T16:43:41.590Z'
+dateModified: '2015-12-05T12:27:32.095Z'
 sourcePath: _posts/2015-12-05-leda-grace-rasmussen.md
 published: true
 inFeed: true
@@ -41,4 +33,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Leda Grace Rasmussen</h1><p>Social media and online marketing expert&amp;period; Specializing in network marketing&amp;period; I have worked with online marketing&amp;comma; social media&amp;comma; online and offline networks&amp;period; Creating large networks of distributors&amp;period;&amp;period;&amp;period;</p><img src="http://38.media.tumblr.com/avatar_3a754b3300cc_128.png" /></article>
+<article style=""><h1>Leda Grace Rasmussen</h1><p>Founder of Teamfun Ltd&amp;period; The do's and don'ts to become successful on the internet as a work from home entrepreneur&amp;period;</p><img src="https://cdn-images-1.medium.com/max/800/0*7dB87yQutcnJP2c3.jpeg" /></article>
