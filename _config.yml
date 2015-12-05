@@ -1,7 +1,7 @@
 name: ledagracerasmussen
 favicon: null
-layout_spectrum: 0.769986038794741
-typography_spectrum: 0.8614335679449141
+layout_spectrum: 1
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.9364572379272431
-  lightness: 0.938830005005002
-  saturation: 0.4562684635166079
-  rhythmicContrast: 0.6526139404159039
+    - '#000000'
+    - '#2f3943'
+    - '#8f9b97'
+    - '#ffffff'
+    - '#f2ca94'
+  brandStrength: 0.5
+  lightness: 0.625
+  saturation: 0.5625
+  rhythmicContrast: 0.5
 purpose: []
