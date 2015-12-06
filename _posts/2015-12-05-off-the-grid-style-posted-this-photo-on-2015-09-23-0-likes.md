@@ -7,14 +7,14 @@ inLanguage: null
 starred: false
 keywords: []
 description: Off The Grid Style posted this photo on 2015-09-23. 0 likes. 0 comments. 0 shares.
-datePublished: '2015-12-06T17:28:25.293Z'
-dateModified: '2015-12-06T17:28:21.338Z'
+datePublished: '2015-12-06T17:30:13.484Z'
+dateModified: '2015-12-06T17:30:09.781Z'
 author:
   - name: Off The Grid Style
     url: 'http://facebook.com/1480192878949711'
     avatar: {}
 related: []
-title: A Facebook page I have founded and manage.
+title: Off The Grid Style
 app_links:
   - url: 'fb://photo/1480195278949471'
     type: android
