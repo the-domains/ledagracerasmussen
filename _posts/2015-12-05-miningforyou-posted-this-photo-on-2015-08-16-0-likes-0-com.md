@@ -7,14 +7,14 @@ inLanguage: null
 starred: false
 keywords: []
 description: Miningforyou posted this photo on 2015-08-16. 0 likes. 0 comments. 0 shares.
-datePublished: '2015-12-06T17:16:51.314Z'
-dateModified: '2015-12-06T17:16:47.866Z'
+datePublished: '2015-12-06T17:37:52.210Z'
+dateModified: '2015-12-06T17:37:49.341Z'
 author:
   - name: Miningforyou
     url: 'http://facebook.com/671783422953898'
     avatar: {}
 related: []
-title: A Facebook page I have founded and manage.
+title: Mining for you
 app_links:
   - url: 'fb://photo/705835756215331'
     type: android
@@ -32,5 +32,5 @@ _type: Photograph
 _context: 'http://schema.org'
 
 ---
-A Facebook page I have founded and manage.
+Facebook page I founded and manage.
 ![Miningforyou posted this photo on 2015-08-16&period; 0 likes&period; 0 comments&period; 0 shares&period;](https://scontent.xx.fbcdn.net/hphotos-xpf1/t31.0-8/s720x720/11834679_705835756215331_1880948889273587285_o.jpg)
