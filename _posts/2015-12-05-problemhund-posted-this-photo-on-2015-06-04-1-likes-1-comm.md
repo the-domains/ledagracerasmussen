@@ -7,14 +7,14 @@ inLanguage: null
 starred: false
 keywords: []
 description: Problemhund posted this photo on 2015-06-04. 1 likes. 1 comments. 0 shares.
-datePublished: '2015-12-06T17:16:07.376Z'
-dateModified: '2015-12-06T17:16:02.388Z'
+datePublished: '2015-12-06T17:37:11.331Z'
+dateModified: '2015-12-06T17:37:08.536Z'
 author:
   - name: Problemhund
     url: 'http://facebook.com/1429003964083000'
     avatar: {}
 related: []
-title: A Facebook page I have founded and manage.
+title: Problemhund
 app_links:
   - url: 'fb://photo/1448434328806630'
     type: android
@@ -32,5 +32,5 @@ _type: Photograph
 _context: 'http://schema.org'
 
 ---
-A Facebook page I have founded and manage.
+Facebook page I founded and manage.
 ![Problemhund posted this photo on 2015-06-04&period; 1 likes&period; 1 comments&period; 0 shares&period;](https://scontent.xx.fbcdn.net/hphotos-xlf1/t31.0-8/s720x720/11406633_1448434328806630_4813347866084038681_o.jpg)
