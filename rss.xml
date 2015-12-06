@@ -4,8 +4,15 @@
         <description><![CDATA[Leda Grace Rasmussen]]></description>
         <link>https://thegrid.ai/ledagracerasmussen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Dec 2015 18:05:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Dec 2015 18:06:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ledagracerasmussen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://scontent-arn2-1.xx.fbcdn.net/hphotos-xpf1/t31.0-8/11834679_705835756215331_1880948889273587285_o.jpg">]]></description>
+            <link>https://thegrid.ai/ledagracerasmussen/48db6d11-87a2-4589-be45-053aa9f5258e/index.html</link>
+            <guid isPermaLink="false">48db6d11-87a2-4589-be45-053aa9f5258e</guid>
+            <pubDate>Sun, 06 Dec 2015 18:06:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcointeam]]></title>
             <description><![CDATA[<article><h1>Bitcointeam</h1><p>Facebook page I founded and manage.</p><img src="https://scontent-arn2-1.xx.fbcdn.net/hphotos-xfl1/v/t1.0-9/10574322_712983492071936_7427824387272924196_n.jpg?oh=28243846de18912c81ad5f85d334500a&oe=571F3CF4"></article>]]></description>
@@ -29,7 +36,7 @@
         </item>
         <item>
             <title><![CDATA[Leda Grace Rasmussen My Profile]]></title>
-            <description><![CDATA[<article><h1>Leda Grace Rasmussen My Profile</h1><p>My Facebook Profile.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/93635ca3474c87ea661cb61edd54fb5645bb1b08.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Leda Grace Rasmussen My Profile</h1><p>My Facebook Profile.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b18ececeea420a7bc02e928cd24b98d078f7d2b2.jpg"></article>]]></description>
             <link>https://thegrid.ai/ledagracerasmussen/0e32f268-86cb-4809-8e86-2fbd20d437a6/index.html</link>
             <guid isPermaLink="false">0e32f268-86cb-4809-8e86-2fbd20d437a6</guid>
             <pubDate>Sun, 06 Dec 2015 18:05:14 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://www.facebook.com/1480192878949711/photos/a.1480195318949467.1073741827.1480192878949711/1480195278949471/?type=3</link>
             <guid isPermaLink="false">09694318-3e2e-4bd5-a2cc-41d84919b95e</guid>
             <pubDate>Sun, 06 Dec 2015 17:31:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mining for you]]></title>
-            <description><![CDATA[<article><h1>Mining for you</h1><p>Facebook page I founded and manage.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7b9fdd8c53c70fdaa04c1d93c3e826d567e5622d.jpg"></article>]]></description>
-            <link>https://www.facebook.com/miningforyou/photos/a.705836006215306.1073741827.671783422953898/705835756215331/?type=3</link>
-            <guid isPermaLink="false">06aae579-048a-4582-8fb4-32755e06cf92</guid>
-            <pubDate>Sun, 06 Dec 2015 17:37:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
