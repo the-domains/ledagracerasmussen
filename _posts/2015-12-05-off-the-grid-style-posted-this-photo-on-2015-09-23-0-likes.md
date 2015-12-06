@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Off The Grid Style posted this photo on 2015-09-23. 0 likes. 0 comments. 0 shares.
-datePublished: '2015-12-06T17:30:13.484Z'
-dateModified: '2015-12-06T17:30:09.781Z'
+datePublished: '2015-12-06T17:31:31.295Z'
+dateModified: '2015-12-06T17:31:26.992Z'
 author:
   - name: Off The Grid Style
     url: 'http://facebook.com/1480192878949711'
@@ -32,5 +32,5 @@ _type: Photograph
 _context: 'http://schema.org'
 
 ---
-A Facebook page I have founded and manage.
+Facebook page I founded and manage.
 ![Off The Grid Style posted this photo on 2015-09-23&period; 0 likes&period; 0 comments&period; 0 shares&period;](https://scontent.xx.fbcdn.net/hphotos-xap1/t31.0-8/s720x720/12029588_1480195278949471_7291457301782673685_o.jpg)
