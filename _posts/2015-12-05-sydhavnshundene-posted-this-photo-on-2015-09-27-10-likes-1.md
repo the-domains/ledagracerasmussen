@@ -7,14 +7,14 @@ inLanguage: null
 starred: false
 keywords: []
 description: Sydhavnshundene posted this photo on 2015-09-27. 10 likes. 1 comments. 0 shares.
-datePublished: '2015-12-06T17:15:32.567Z'
-dateModified: '2015-12-06T17:15:29.375Z'
+datePublished: '2015-12-06T17:36:36.432Z'
+dateModified: '2015-12-06T17:36:33.513Z'
 author:
   - name: Sydhavnshundene
     url: 'http://facebook.com/770030053070476'
     avatar: {}
 related: []
-title: A Facebook page I have founded and manage.
+title: Sydhavnshundene
 app_links:
   - url: 'fb://photo/954346184638861'
     type: android
@@ -32,5 +32,5 @@ _type: Photograph
 _context: 'http://schema.org'
 
 ---
-A Facebook page I have founded and manage.
+Facebook page I founded and manage.
 ![Sydhavnshundene posted this photo on 2015-09-27&period; 10 likes&period; 1 comments&period; 0 shares&period;](https://scontent.xx.fbcdn.net/hphotos-xat1/t31.0-8/q84/s720x720/12030354_954346184638861_4959726275637522837_o.jpg)
